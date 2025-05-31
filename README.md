@@ -15,7 +15,7 @@
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/the-indian-time.git
+   git clone https://github.com/Arijeet15/The-Indian-Time-JS-Clock.git
    cd the-indian-time
    ```
 
