@@ -11,18 +11,6 @@
 
 > ⚠️ This clock assumes the **system time zone is set to IST**. It does not perform manual time zone adjustments.
 
-## 🚀 How to Use
-
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/Arijeet15/The-Indian-Time-JS-Clock.git
-   cd the-indian-time
-   ```
-
-2. Open `index.html` in your browser.
-
-That's it! The clock will start showing the current time in IST (if your system clock is set to IST).
-
 ## 📁 File Structure
 
 ```
